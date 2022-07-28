@@ -1,2 +1,2 @@
-q# odin-recipes
+odin-recipes
 my odin-recipes project.
